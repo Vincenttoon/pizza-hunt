@@ -20,7 +20,7 @@ By: [Vincent Toon](https://github.com/Vincenttoon)
 
 ## Installation
 
-* Head to the repository to download or view this code: [Contact-card](https://github.com/Vincenttoon/contact-card)
+* Head to the repository to download or view this code: [Pizza-hunt](https://github.com/Vincenttoon/pizza-hunt)
 
 ## Usage
 
